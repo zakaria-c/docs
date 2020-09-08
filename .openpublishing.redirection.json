@@ -9801,8 +9801,7 @@
         },
         {
             "source_path": "docs/framework/xaml-services/types-migrated-from-wpf-to-system-xaml.md",
-            "redirect_url": "/dotnet/desktop/wpf/advanced/types-migrated-from-wpf-to-system",
-            "redirect_document_id": true
+            "redirect_url": "/dotnet/desktop/wpf/advanced/types-migrated-from-wpf-to-system"
         },
         {
             "source_path": "docs/framework/xaml-services/understanding-xaml-node-stream-structures-and-concepts.md",
